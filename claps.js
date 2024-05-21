@@ -8,12 +8,12 @@ doc
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCBvtzUQnS9Iiichm42uh7L8Q0qygSG_D0",
+    apiKey: "",
     authDomain: "photos-clap-app.firebaseapp.com",
     projectId: "photos-clap-app",
     storageBucket: "photos-clap-app.appspot.com",
-    messagingSenderId: "631007786022",
-    appId: "1:631007786022:web:1ecfeb58c6cf1b822d22e7"
+    messagingSenderId: "",
+    appId: ""
   };
 
   // Initialize Firebase
